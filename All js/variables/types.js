@@ -50,7 +50,7 @@ const person = ["sharath","Nalla", 18 , 24-12-2025];
 
 const date = new Date (24-12-2005);
 
-// undefined
+                                 // undefined
 
 // let x;
 
@@ -58,7 +58,7 @@ const date = new Date (24-12-2005);
 
 
 
-// NUll
+                                    // NUll
 
 // let x = null;
 
