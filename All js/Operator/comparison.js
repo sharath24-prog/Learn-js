@@ -29,9 +29,9 @@
     
 
 
-a = 40
+// a = 40
 
-b = 30
+// b = 30
 
 // console.log(a>b)
 
@@ -47,3 +47,16 @@ b = 30
 
 // console.log(a!==b)
 
+
+//    == (always avoid due to bug)
+
+ let a = 7 ;
+ let b ="7";
+
+ console.log(a == b); //number == string so true.
+
+
+
+ console.log(a===b);  //this is check whether is it true and false .
+
+ 
