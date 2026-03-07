@@ -6,4 +6,4 @@ const names = ["alice","bob","happy"];
 // console.log(names.join("-"));
 
 
-console.log(names.indexOf("bob"));
+// console.log(names.indexOf("bob"));
