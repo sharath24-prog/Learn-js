@@ -17,6 +17,9 @@
 
 // console.log(person.address.city);
 
+
+
+
 // shallow copy 
 
 // const person2 ={...person};
